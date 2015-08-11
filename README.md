@@ -21,7 +21,8 @@ Breadboard configuration (using Fritzing software)
 ![breadboard configuration](https://raw.github.com/Anaroyondo/simpleShiftRegister/master/simpleShiftRegister.png)
 
 
-74hc595 configuration diagram
+74hc595 configuration diagrams
 -
 ![74hc595 configuration](http://i.stack.imgur.com/idHuy.png)
+
 ![74hc595 configuration](https://farm4.staticflickr.com/3384/4562719993_5ece0f189a_o.jpg)
