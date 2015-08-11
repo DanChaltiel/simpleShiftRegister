@@ -1,5 +1,6 @@
 # simpleShiftRegister
 A very simple way to understand how Shift Registers work, using SPI library on an Arduino.
+The code will light every LED, one after another, with a 200µs delay.
 
 Material :
 -
