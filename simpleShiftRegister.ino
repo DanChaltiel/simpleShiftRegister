@@ -1,6 +1,7 @@
 /**
  * Simple Shift Register
  * The most simple circuit to use a S
+ * Inspired from Kevin Darrah's Youtube Tutorial : https://www.youtube.com/watch?v=oB_pz18AinI
  */
 
 #include <SPI.h>
